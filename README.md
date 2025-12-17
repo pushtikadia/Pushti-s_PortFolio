@@ -83,11 +83,4 @@ The dashboard acts as a gateway to my primary repositories:
 
 ---
 
-## 🚀 Installation & Setup
-
-Since this is a client-side static application, it requires no build step or backend server.
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/pushtikadia/Pushti-io.git](https://github.com/pushtikadia/Pushti-io.git)
-cd Pushti-io
+<p align="center"> <b>Pushti-io</b> • Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a> </p>
