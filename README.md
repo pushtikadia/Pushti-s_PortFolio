@@ -1,17 +1,23 @@
-<h1>Welcome to <span style="color:#4D96FF;">Pushti-io</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Welcome to <span style="color:#4D96FF;">Pushti-io</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-- 💻 **A Cinematic Developer Portfolio** — Engineered For The Modern Web With 3D Physics
+<p align="center">
+  <b>A Cinematic Developer Portfolio & Digital Dashboard</b>
+</p>
+
+- 💻 **A High-Performance Interface** — engineered for the modern web with 3D physics and dynamic lighting.
+  <br>
+- 🚀 **Zero Dependencies** — built with pure Vanilla JS and CSS for maximum speed and optimization.
   <br>
 
 ## 📬 About The Project
 
-- 🔮 **Concept:** A Spatial Digital Environment That Replaces The Traditional "Flat" Portfolio With A Holographic Dashboard
+- 🔮 **Concept:** A spatial digital environment that replaces the traditional "flat" portfolio with a holographic, interactive dashboard.
   
-- ⚡ **Capabilities:** Features Dynamic Spotlight UI, 3D Parallax Tilt, And Procedural Film Grain Textures
+- ⚡ **Capabilities:** Features a **Dynamic Spotlight UI** (raycasting), **3D Parallax Tilt**, and procedural **Film Grain** textures.
     
-- 🕰️ **Live Telemetry:** Synced To Indian Standard Time (IST) To Reflect Actual Presence
+- 🕰️ **Live Telemetry:** synced to **Indian Standard Time (IST)** to reflect the developer's actual presence.
  
-- 📂 **Central Command:** Acts As A Gateway To Key Projects Like EPOCH, Trade Pulse, And PandaTech
+- 📂 **Central Command:** Acts as a gateway to my key projects like **EPOCH**, **Trade Pulse**, and **PandaTech**.
 
 
 ## 🚀 Key Features
@@ -35,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript (ES6+)" />
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma (Design)" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
